@@ -3,3 +3,7 @@ h1 {color: #333333;
   font-size: 3em; 
   margin-top: 100px; 
   font-family: "Georgia", serif;}
+
+body {
+  background-color: pink;
+}
