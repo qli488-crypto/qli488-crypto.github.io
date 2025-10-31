@@ -1,5 +1,4 @@
 body {
-  height: 100%; 
   margin: 0; 
   display: flex;
   flex-direction: column;
@@ -22,6 +21,7 @@ h2 {
   margin-top: 130em;
   text-align: center;
 }
+
 
 
 
