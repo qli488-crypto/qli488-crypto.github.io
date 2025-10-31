@@ -1,23 +1,26 @@
-body {
+html, body {
+  height: 100%; 
+  margin: 0; 
   display: flex;
-  flex-direction: column; 
+  flex-direction: column;
   justify-content: center;
   align-items: center;
-  background-color:#f8f6f2;
-}
-h1 {
-  color:#666666  
-  font-size: 20px;
-  font-family:serif;
-  margin-top: 300px;
+  background-color: #f8f6f2;
 }
 
+h1 {
+  color: #333333;
+  font-size: 3em; 
+  font-family: serif;
+  margin: 0.3em;
+}
 
 h2 {
-  color:#666666;
-  font-size: 7px;
-  font-family:serif;
-  margin-top: 350px;
+  color: #5b8c6f; 
+  font-size: 1.5em;
+  font-family: serif;
+  margin: 0.2em;
+  text-align: center;
 }
 
 
