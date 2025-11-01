@@ -40,10 +40,12 @@ section2 {margin-bottom: 17;}
   display: flex; 
   align-items: center; 
   justify-content: center;
-  gap: 40px;
+  gap: 60px;
   margin: 50px auto;
   max-width: 1000px; 
+  float:right;
 }
+
 
 
 
