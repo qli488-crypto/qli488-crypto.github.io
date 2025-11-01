@@ -1,6 +1,6 @@
 nav {
   position: fixed; 
-  top: 50%;
+  top: 50px;
   right: 20px; 
   background-color:dark; 
   padding: 10px 20px;
@@ -14,7 +14,7 @@ nav ul {
 }
 
 nav li {
-  margin: 10px 0; 
+  margin: 30px 0; 
 }
 
 nav a {
@@ -22,11 +22,13 @@ nav a {
   color: #666666;
   font-family: Georgia, serif;
   font-weight: bold;
+  font-size:15px;
 }
 
 body {
   background-color:blue;
 }
+
 
 
 
